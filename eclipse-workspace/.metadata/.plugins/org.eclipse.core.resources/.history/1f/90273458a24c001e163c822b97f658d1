@@ -1,0 +1,9 @@
+package com.mycom.word;
+
+public class WordManager {
+	public void start() {
+		System.out.println("WordManager!!!");
+		//TODO Auto-generate method stub
+		new WordManager().start();
+	}
+}

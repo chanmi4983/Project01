@@ -1,0 +1,14 @@
+package com.mycom.word;
+
+public class WordManager {
+	public void selectMenu() {
+		
+	}
+
+	public void start() {
+		System.out.println("WordManager!!!");
+	}
+
+
+}
+
